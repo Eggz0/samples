@@ -12,9 +12,9 @@
 "Synth Miser_c37f0000.wav",
 "._WhoMeChord.WAV",
  "._kidGlitch_wriongtrumpet.wav",
- "._DarkTexture2.wav",
- "._FeelIt.wav",
- "._LoFi_Loafa_distsnare2.wav",
- "._LoFi_Loafa_distsnare2.wav",
+ ("._DarkTexture2.wav",)
+ ("._FeelIt.wav",)
+ ("._LoFi_Loafa_distsnare2.wav",)
+
  
 ]}

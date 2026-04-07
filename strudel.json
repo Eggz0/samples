@@ -14,8 +14,8 @@
   "Synth Miser_c37f0000.wav",
   "._WhoMeChord.WAV",
   "._kidGlitch_wriongtrumpet.wav", 
-  "darktexture": "._DarkTexture2.wav", 
-  "feelit": "._FeelIt.wav", 
-  "dirtsnare": "._LoFi_Loafa_distsnare2.wav"
+  "darktexture": ["._DarkTexture2.wav"], 
+  "feelit": ["._FeelIt.wav"], 
+  "dirtsnare": ["._LoFi_Loafa_distsnare2.wav"]
   }
 }

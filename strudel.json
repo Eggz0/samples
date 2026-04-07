@@ -1,19 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/Eggz0/samples/main/", 
-  "samples":  {"._AllOn.wav", 
-  "._AmenHat1.wav", 
-  "._AmenHat2.wav", 
-  "._AmenHatnSnare.wav", 
-  "._AmenKick1.wav", 
-  "._AmenKick2.wav", 
-  "._AmenSnare1.wav", 
-  "._AmenSnare2.wav", 
-  "._Angerness1.wav",
-  "._Angerness6.wav", 
-  "._Angerness7.wav", 
-  "Synth Miser_c37f0000.wav",
-  "._WhoMeChord.WAV",
-  "._kidGlitch_wriongtrumpet.wav", 
+  "samples":  {
   "darktexture": ["._DarkTexture2.wav"], 
   "feelit": ["._FeelIt.wav"], 
   "dirtsnare": ["._LoFi_Loafa_distsnare2.wav"]

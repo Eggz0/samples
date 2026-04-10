@@ -4,6 +4,9 @@
   "darktexture": ["._DarkTexture2.wav"], 
   "feelit": ["._FeelIt.wav"], 
   "dirtsnare": ["._LoFi_Loafa_distsnare2.wav"]
-  "BELLglock": ["._Cymatics - BELL Glock - C.wav"]
+  "BELLglock": ["._Cymatics - BELL Glock - C.wav"],
+  "slidingdoor": "847442__mikiko850__industrial-sliding-door.mp3",
+  "ambient": "849838__jeffpearson__ambience.mp3",
+  "trainhorn": "849984__alig512__faulty-train-horn-blaring-on-a-rainy-downtown-night.mp3"
   }
 }
